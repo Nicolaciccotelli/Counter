@@ -1,0 +1,6 @@
+The project was carried out after studying the basics of Javascript.
+
+It is a simple HTML counter that has been styled with CSS and features with Javascript.
+Everything is based on two functions (add and subtract) that allow you to manipulate the number.
+In addition, the number cannot go below zero and go negative.
+I hope it will be useful to you...
